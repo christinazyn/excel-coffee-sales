@@ -33,7 +33,7 @@ There are three tables in this dataset.
 ## Steps
 
 - Join Data: Match Customers Table and Products Table with Orders Table using XLOOPUP and INDEX MATCH.
-- Format Data: Using IF funcitons, Date Format, Number Format and checking duplicates.
+- Format Data: Using IF functions, Date Format, Number Format and checking duplicates.
 - Build Up Dashboards: Pivot tables and charts. Insert timeline and slicers.
 
 ## Contributing
@@ -42,7 +42,7 @@ Suggestions are welcome!
 
 ## Acknowledgments
 
-Great thanks to an amazing Youtuber @howtobecomeadeveloper that teaches me from scratch.
+Great thanks to an amazing Youtuber [@Mo Chen](https://github.com/mochen862) for providing the data and tutorial of designing the dashboard.
 
 ```bash
 # Clone the repository
