@@ -14,7 +14,7 @@ This is an Excel Project analyzing some Coffee Orders Data by building up an int
 
 - [Demo](#demo)
 - [Data](#data)
-- [Steps](#Steps)
+- [Steps](#steps)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 
@@ -30,7 +30,7 @@ There are three tables in this dataset.
 - Customers Table: CustomerID, CustomerName, PhoneNumber, LoyaltyCard etc.
 - Products Table: ProductID, CoffeeType, RoastType, Size, UnitPrice, PricePer100g, Profit
 
-## Step
+## Steps
 
 - Join Data: Match Customers Table and Products Table with Orders Table using XLOOPUP and INDEX MATCH.
 - Format Data: Using IF funcitons, Date Format, Number Format and checking duplicates.
